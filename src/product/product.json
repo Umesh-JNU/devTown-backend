@@ -1,0 +1,359 @@
+[
+  {
+    "title": "Milton",
+    "description": "Milton 500ml",
+    "price": 649,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003044/devTown/1699003043549-bottle1.jpg",
+    "category": "bottle"
+  },
+  {
+    "title": "Milton",
+    "description": "Milton 750ml",
+    "price": 849,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003083/devTown/1699003082564-bottle2.jpg",
+    "category": "bottle"
+  },
+  {
+    "title": "Milton",
+    "description": "Milton 1l",
+    "price": 999,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003123/devTown/1699003121649-bottle3.jpg",
+    "category": "bottle"
+  },
+  {
+    "title": "Milton",
+    "description": "Milton 2l",
+    "price": 139,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003144/devTown/1699003142865-bottle4.jpg",
+    "category": "bottle"
+  },
+  {
+    "title": "Cello",
+    "description": "Cello 500ml",
+    "price": 549,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003233/devTown/1699003232595-bottle5.jpg",
+    "category": "bottle"
+  },
+  {
+    "title": "Cello",
+    "description": "Cello 750ml",
+    "price": 749,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003256/devTown/1699003252662-bottle6.jpg",
+    "category": "bottle"
+  },
+  {
+    "title": "Cello",
+    "description": "Cello 1l",
+    "price": 899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003272/devTown/1699003270450-bottle7.jpg",
+    "category": "bottle"
+  },
+  {
+    "title": "Cello",
+    "description": "Cello 2l",
+    "price": 1229,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003295/devTown/1699003293875-bottle8.jpg",
+    "category": "bottle"
+  },
+  {
+    "title": "Wrangler Jeans",
+    "description": "Wrangler Jeans Lady",
+    "price": 1099,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003373/devTown/1699003371892-jeans1.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "Pepe Jeans",
+    "description": "Pepe Jeans Lady",
+    "price": 1299,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003382/devTown/1699003380885-jeans2.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "Wrangler Jeans",
+    "description": "Wrangler Jeans Men",
+    "price": 1099,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003407/devTown/1699003403145-jeans3.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "Pepe Jeans",
+    "description": "Pepe Jeans Men",
+    "price": 1299,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003421/devTown/1699003419352-jeans4.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "H&M Jeans",
+    "description": "H&M Jeans Lady",
+    "price": 1549,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003468/devTown/1699003467178-jeans5.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "H&M Jeans",
+    "description": "H&M Jeans Men",
+    "price": 1549,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003497/devTown/1699003496810-jeans6.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "Wrangler Shirt",
+    "description": "Wrangler Shirt Lady",
+    "price": 659,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003558/devTown/1699003556839-shirt1.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "Pepe Shirt",
+    "description": "Pepe Shirt Lady",
+    "price": 649,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003576/devTown/1699003574992-shirt2.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "Wrangler Shirt",
+    "description": "Wrangler Shirt Men",
+    "price": 726,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003587/devTown/1699003584489-shirt3.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "Pepe Shirt",
+    "description": "Pepe Shirt Men",
+    "price": 726,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003621/devTown/1699003598817-shirt4.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "H&M Shirt",
+    "description": "H&M Shirt Lady",
+    "price": 1239,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003661/devTown/1699003643524-shirt5.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "H&M Shirt",
+    "description": "H&M Shirt Men",
+    "price": 1190,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003673/devTown/1699003671748-shirt6.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "Arrow Shirt",
+    "description": "Arrow Shirt Men",
+    "price": 879,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003689/devTown/1699003685545-shirt7.jpg",
+    "category": "cloth"
+  },
+  {
+    "title": "Nike Shoes",
+    "description": "Nike Shoes Men",
+    "price": 879,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003743/devTown/1699003742335-shoes1.jpg",
+    "category": "footwear"
+  },
+  {
+    "title": "Nike Shoes",
+    "description": "Nike Shoes Kid",
+    "price": 579,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003762/devTown/1699003760945-shoes2.jpg",
+    "category": "footwear"
+  },
+  {
+    "title": "Nike Shoes",
+    "description": "Nike Shoes Women",
+    "price": 779,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003770/devTown/1699003768939-shoes3.jpg",
+    "category": "footwear"
+  },
+  {
+    "title": "Campus Shoes",
+    "description": "Campus Shoes Men",
+    "price": 779,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003786/devTown/1699003785129-shoes4.jpg",
+    "category": "footwear"
+  },
+  {
+    "title": "Campus Shoes",
+    "description": "Campus Shoes Kid",
+    "price": 479,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003838/devTown/1699003837270-shoes5.jpg",
+    "category": "footwear"
+  },
+  {
+    "title": "Campus Shoes",
+    "description": "Campus Shoes Women",
+    "price": 679,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003846/devTown/1699003845311-shoes6.jpg",
+    "category": "footwear"
+  },
+  {
+    "title": "Adidas Shoes",
+    "description": "Adidas Shoes Men",
+    "price": 679,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003864/devTown/1699003862876-shoes7.jpg",
+    "category": "footwear"
+  },
+  {
+    "title": "Adidas Shoes",
+    "description": "Adidas Shoes Kid",
+    "price": 379,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003878/devTown/1699003876911-shoes8.jpg",
+    "category": "footwear"
+  },
+  {
+    "title": "Adidas Shoes",
+    "description": "Adidas Shoes Women",
+    "price": 579,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699003991/devTown/1699003990451-shoes9.jpg",
+    "category": "footwear"
+  },
+  {
+    "title": "HP",
+    "description": "HP Pavelion Laptop",
+    "price": 44999,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004110/devTown/1699004109464-laptop1.jpg",
+    "category": "laptop"
+  },
+  {
+    "title": "HP",
+    "description": "HP Laptop",
+    "price": 33999,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004127/devTown/1699004125841-laptop2.jpg",
+    "category": "laptop"
+  },
+  {
+    "title": "Dell",
+    "description": "Dell Pavelion Laptop",
+    "price": 54999,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004150/devTown/1699004149101-laptop3.jpg",
+    "category": "laptop"
+  },
+  {
+    "title": "Dell",
+    "description": "Dell Laptop",
+    "price": 45999,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004175/devTown/1699004174069-laptop4.jpg",
+    "category": "laptop"
+  },
+  {
+    "title": "Lenovo",
+    "description": "Lenovo Flex Laptop",
+    "price": 74999,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004188/devTown/1699004187731-laptop5.jpg",
+    "category": "laptop"
+  },
+  {
+    "title": "Lenovo",
+    "description": "Lenovo IdeaPad Laptop",
+    "price": 58999,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004203/devTown/1699004202953-laptop6.jpg",
+    "category": "laptop"
+  },
+  {
+    "title": "Lenovo",
+    "description": "Lenovo ThinkPad Laptop",
+    "price": 67999,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004220/devTown/1699004218937-laptop7.jpg",
+    "category": "laptop"
+  },
+  {
+    "title": "Asus",
+    "description": "Asus Laptop",
+    "price": 47899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004239/devTown/1699004238423-laptop8.jpg",
+    "category": "laptop"
+  },
+  {
+    "title": "Samsung",
+    "description": "Samsung Galaxy 39",
+    "price": 15899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004331/devTown/1699004329842-mobile1.jpg",
+    "category": "mobile"
+  },
+  {
+    "title": "Samsung",
+    "description": "Samsung Galaxy 40",
+    "price": 16899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004339/devTown/1699004338695-mobile2.jpg",
+    "category": "mobile"
+  },
+  {
+    "title": "Samsung",
+    "description": "Samsung Galaxy 41",
+    "price": 17899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004356/devTown/1699004355796-mobile3.jpg",
+    "category": "mobile"
+  },
+  {
+    "title": "Samsung",
+    "description": "Samsung Galaxy 42",
+    "price": 18899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004366/devTown/1699004365785-mobile4.jpg",
+    "category": "mobile"
+  },
+  {
+    "title": "Samsung",
+    "description": "Samsung Ultra 23",
+    "price": 125699,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004381/devTown/1699004380150-mobile5.jpg",
+    "category": "mobile"
+  },
+  {
+    "title": "Samsung",
+    "description": "Samsung Galaxy 24",
+    "price": 148999,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004400/devTown/1699004398126-mobile6.jpg",
+    "category": "mobile"
+  },
+  {
+    "title": "Samsung",
+    "description": "Samsung Galaxy 25",
+    "price": 179899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004413/devTown/1699004411727-mobile7.jpg",
+    "category": "mobile"
+  },
+  {
+    "title": "Apple Smart Watch",
+    "description": "110+ Features, SPO2, Sport, Heart Rate",
+    "price": 44899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004482/devTown/1699004479768-watch1.jpg",
+    "category": "smartwatch"
+  },
+  {
+    "title": "Apple Smart Watch",
+    "description": "60+ Features, Sport, Heart Rate",
+    "price": 37899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004494/devTown/1699004493705-watch2.webp",
+    "category": "smartwatch"
+  },
+  {
+    "title": "Apple Smart Watch",
+    "description": "40+ Features, Step and Sport",
+    "price": 24899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004513/devTown/1699004512150-watch3.jpg",
+    "category": "smartwatch"
+  },
+  {
+    "title": "Fitbit Smart Watch",
+    "description": "110+ Features, Sport, heart rate, SPO2",
+    "price": 40899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004529/devTown/1699004527867-watch4.jpg",
+    "category": "smartwatch"
+  },
+  {
+    "title": "Fitbit Smart Watch",
+    "description": "70+ Features, sport and heart rate",
+    "price": 25899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004544/devTown/1699004543837-watch5.webp",
+    "category": "smartwatch"
+  },
+  {
+    "title": "Fitbit Smart Watch",
+    "description": "110+ Features, steps",
+    "price": 19899,
+    "product_img": "https://res.cloudinary.com/indiakart/image/upload/v1699004564/devTown/1699004562609-watch6.jpg",
+    "category": "smartwatch"
+  }
+]
